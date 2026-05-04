@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About](#-about)
 - [Features](#-features)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 About
+##  About
 
 **CampusBuddy** is a premium, full-featured campus notification platform built with React. It aggregates university life — academic deadlines, placement drives, events, and administrative alerts — into a single, personalized, beautifully designed dashboard.
 
@@ -39,53 +39,53 @@ The platform features a fintech-grade editorial UI with hand-crafted CSS animati
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🏠 Landing Page
+###  Landing Page
 - **Procedural Canvas Hero** — Hand-drawn animated landscape with hot air balloon, mountains, trees, and drifting clouds using HTML5 Canvas API
 - **Scroll-triggered Animations** — Sections fade and slide into view as you scroll via `IntersectionObserver`
 - **Stats Bar** — Key metrics (10K+ Students, 500+ Events, 98% On-Time Alerts, 24/7 AI)
 - **Demo Video Modal** — Click-to-play video modal with backdrop blur
 - **CTA Section** — Full-width purple gradient call-to-action
 
-### 📊 Dashboard
+###  Dashboard
 - **Dynamic Greeting** — Changes based on time of day (Morning/Afternoon/Evening)
 - **Smart Insight Cards** — Color-coded (Urgent/Placement/Trending) with glow borders
 - **Upcoming Events Sidebar** — Event date badges transform on hover
 - **Real-time Announcements** — Pulsing status dots for live updates
 
-### 🔔 Notifications
+###  Notifications
 - **Filterable Inbox** — Filter by All / Academics / Events / Placements / Administrative
 - **Unread Counter** — Dynamic count of unread notifications
 - **Read/Unread Toggle** — Click any notification to toggle read status
 - **Mark All as Read** — Bulk action button
 - **Staggered Card Animations** — Cards cascade in with 80ms delays
 
-### 📅 Events
+###  Events
 - **6 Mock Events** — Competition, Tech Talk, Placement, Cultural, Academic, Workshop
 - **Color-coded RSVP Buttons** — Each event type has its own gradient
 - **Event Date Hover Effect** — Date badge transforms to gradient background on hover
 - **Status Badges** — 🔥 Hot, 🟢 New, 🔴 Urgent floating badges
 
-### 🔐 Login
+###  Login
 - **Decorative Gradient Orbs** — Blurred purple/blue circles behind the form
 - **Float-effect Inputs** — Inputs lift and glow on focus
 - **Form Validation** — Required email + password with navigation to Dashboard
 
-### 👤 Profile
+###  Profile
 - **Notification Preferences** — Interactive toggle switches with spring animation
 - **Stats Grid** — Notifications Read / Events Attended / Placements Applied
 - **Edit Avatar** — Edit button appears on profile image hover
 - **Active Counter Badge** — Shows how many preferences are enabled
 
-### 🤖 AI Chatbot
+###  AI Chatbot
 - **Floating Widget** — Purple gradient bubble at bottom-right with bounce animation
 - **Welcome Screen** — Avatar, greeting, and "Let's Chat!" CTA
 - **Quick Replies** — 4 pre-set campus questions
 - **Simulated AI Responses** — Contextual answers with bold text parsing
 - **Typing Indicator** — Bouncing dots while "thinking"
 
-### 🎨 Micro-interactions (Applied Globally)
+###  Micro-interactions (Applied Globally)
 - **Font-swap on Hover** — Buttons switch from Inter → Playfair Display italic on hover
 - **Shimmer Effect** — Light sweep across buttons on hover
 - **Spring Bounce Curve** — `cubic-bezier(0.34, 1.56, 0.64, 1)` on all transitions
@@ -147,7 +147,7 @@ campus_notification_engine/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -194,7 +194,7 @@ npm run preview
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 | Color | Hex | Usage |
@@ -228,8 +228,6 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
-
 > Run the app locally to see the full experience with animations:
 >
 > ```bash
@@ -242,14 +240,8 @@ npm run preview
 
 ## 👤 Author
 
-**Vivek Sharma**
+**Vivek Rai**
 - GitHub: [@VivekRai-gif](https://github.com/VivekRai-gif)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use it for learning and personal projects.
 
 ---
 
